@@ -1,0 +1,97 @@
+/**
+ * The following styles get applied inside the editor only.
+ */
+
+.wp-block-matchbox-slider {
+	.wp-block-matchbox-slide-editor {
+		&.editor-inactive-block {
+			display: none;
+		}
+
+		&.editor-active-block {
+			display: block;
+		}
+	}
+}
+
+// Remove padding from slider styling panel
+.matchbox-slider-styling-panel .block-editor-panel-color-gradient-settings.block-editor-panel-color-gradient-settings {
+	padding-left: 0;
+	padding-right: 0;
+}
+
+/* Editor Slider Controls */
+.matchbox-slider-header {
+	background: #f6f6f6;
+	border-bottom-left-radius: 0 !important;
+	border-bottom-right-radius: 0 !important;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin: 0;
+
+	&__card {
+		border-bottom: 1px solid #e6e6e6;
+		box-shadow: none !important;
+		border-bottom-left-radius: 0 !important;
+		border-bottom-right-radius: 0 !important;
+	}
+
+	&__button-wrapper {
+		display: flex;
+		gap: 1rem;
+	}
+
+	// Button components
+	&__button {
+		&.has-icon.has-text {
+			&.prev {
+				padding-right: 1rem;
+			}
+
+			&.next {
+				display: flex;
+				flex-direction: row-reverse;
+				padding-left: 1rem;
+			}
+
+			&.is-primary {
+				padding-right: 1rem;
+			}
+
+			svg {
+				margin-right: 0;
+			}
+		}
+	}
+
+	p {
+		font-size: 14px;
+		color: var(--wp-admin-theme-color);
+	}
+}
+
+li.splide__slide.block-editor-block-list__block {
+	list-style: none;
+	margin-bottom: 0;
+}
+
+.editor-styles-wrapper .slider-block-boxed-carousel .splide {
+	.splide-track {
+		padding-right: 0 !important;
+	}
+	.splide__slide {
+		.slide-content {
+			&__image {
+				aspect-ratio: 1/1;
+				max-height: 100%;
+
+				img {
+					height: 100%;
+					width: 100%;
+					object-fit: cover;
+				}
+			}
+		}
+	}
+}

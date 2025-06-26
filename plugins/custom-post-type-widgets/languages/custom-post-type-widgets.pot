@@ -1,0 +1,277 @@
+# Copyright (C) 2022 thingsym
+# This file is distributed under the GPLv2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Custom Post Type Widgets 1.5.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/custom-post-type-widgets\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-05-25T15:39:23+09:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: custom-post-type-widgets\n"
+
+#. Plugin Name of the plugin
+msgid "Custom Post Type Widgets"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://github.com/thingsym/custom-post-type-widgets"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin adds default custom post type widgets."
+msgstr ""
+
+#. Author of the plugin
+msgid "thingsym"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.thingslabo.com/"
+msgstr ""
+
+#: inc/class-custom-post-type-widgets.php:122
+msgid "Become a sponsor"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:26
+msgid "A monthly archive of your site&#8217;s Posts."
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:29
+msgid "Archives (Custom Post Type)"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:44
+msgid "Archives"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:112
+msgid "Select Year"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:115
+msgid "Select Month"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:118
+msgid "Select Day"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:121
+msgid "Select Week"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:124
+msgid "Select Post"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:223
+#: inc/widget-custom-post-type-calendar.php:128
+#: inc/widget-custom-post-type-categories.php:200
+#: inc/widget-custom-post-type-recent-comments.php:189
+#: inc/widget-custom-post-type-recent-posts.php:244
+#: inc/widget-custom-post-type-search.php:102
+#: inc/widget-custom-post-type-tag-cloud.php:144
+msgid "Title:"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:234
+#: inc/widget-custom-post-type-calendar.php:140
+#: inc/widget-custom-post-type-recent-comments.php:201
+#: inc/widget-custom-post-type-recent-posts.php:254
+#: inc/widget-custom-post-type-search.php:113
+msgid "Post Type:"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:259
+msgid "Archive Type:"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:265
+msgid "Yearly"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:266
+msgid "Monthly"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:267
+msgid "Weekly"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:268
+msgid "Daily"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:283
+#: inc/widget-custom-post-type-categories.php:241
+msgid "Display as dropdown"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:284
+#: inc/widget-custom-post-type-categories.php:244
+msgid "Show post counts"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:293
+msgid "Order:"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:299
+msgid "DESC"
+msgstr ""
+
+#: inc/widget-custom-post-type-archive.php:300
+msgid "ASC"
+msgstr ""
+
+#: inc/widget-custom-post-type-calendar.php:36
+msgid "A calendar of your site&#8217;s Posts."
+msgstr ""
+
+#: inc/widget-custom-post-type-calendar.php:39
+msgid "Calendar (Custom Post Type)"
+msgstr ""
+
+#: inc/widget-custom-post-type-calendar.php:54
+msgid "Calendar"
+msgstr ""
+
+#. translators: Calendar caption: 1: month name, 2: 4-digit year
+#: inc/widget-custom-post-type-calendar.php:283
+msgctxt "calendar caption"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: inc/widget-custom-post-type-calendar.php:362
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#. translators: label: 1: date format
+#: inc/widget-custom-post-type-calendar.php:364
+msgid "Posts published on %s"
+msgstr ""
+
+#: inc/widget-custom-post-type-calendar.php:392
+msgid "Previous and next months"
+msgstr ""
+
+#: inc/widget-custom-post-type-categories.php:26
+msgid "A list or dropdown of categories."
+msgstr ""
+
+#: inc/widget-custom-post-type-categories.php:29
+msgid "Categories (Custom Post Type)"
+msgstr ""
+
+#: inc/widget-custom-post-type-categories.php:44
+msgid "Categories"
+msgstr ""
+
+#: inc/widget-custom-post-type-categories.php:50
+#: inc/widget-custom-post-type-categories.php:195
+msgid "Select Category"
+msgstr ""
+
+#: inc/widget-custom-post-type-categories.php:213
+#: inc/widget-custom-post-type-tag-cloud.php:156
+msgid "Taxonomy (slug):"
+msgstr ""
+
+#: inc/widget-custom-post-type-categories.php:237
+msgid "Dropdown label:"
+msgstr ""
+
+#: inc/widget-custom-post-type-categories.php:247
+msgid "Show hierarchy"
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-comments.php:26
+msgid "Your site’s most recent comments."
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-comments.php:29
+msgid "Recent Comments (Custom Post Type)"
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-comments.php:82
+msgid "Recent Comments"
+msgstr ""
+
+#. translators: comments widget: 1: comment author, 2: post link
+#: inc/widget-custom-post-type-recent-comments.php:130
+msgctxt "widgets"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-comments.php:210
+#: inc/widget-custom-post-type-recent-posts.php:263
+#: inc/widget-custom-post-type-search.php:122
+msgid "All"
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-comments.php:229
+msgid "Number of comments to show:"
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-posts.php:26
+msgid "Your site&#8217;s most recent custom Posts."
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-posts.php:29
+msgid "Recent Posts (Custom Post Type)"
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-posts.php:49
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-posts.php:131
+msgid "(no title)"
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-posts.php:284
+msgid "Number of posts to show:"
+msgstr ""
+
+#: inc/widget-custom-post-type-recent-posts.php:288
+msgid "Display post date?"
+msgstr ""
+
+#: inc/widget-custom-post-type-search.php:26
+msgid "A search form for your site."
+msgstr ""
+
+#: inc/widget-custom-post-type-search.php:29
+msgid "Search (Custom Post Type)"
+msgstr ""
+
+#: inc/widget-custom-post-type-search.php:49
+msgid "Search"
+msgstr ""
+
+#: inc/widget-custom-post-type-tag-cloud.php:26
+msgid "A cloud of your most used tags."
+msgstr ""
+
+#: inc/widget-custom-post-type-tag-cloud.php:29
+msgid "Tag Cloud (Custom Post Type)"
+msgstr ""
+
+#: inc/widget-custom-post-type-tag-cloud.php:51
+msgid "Tags"
+msgstr ""
+
+#: inc/widget-custom-post-type-tag-cloud.php:182
+msgid "Show tag counts"
+msgstr ""
+
+#: inc/widget-custom-post-type-tag-cloud.php:186
+msgid "The tag cloud will not be displayed since there are no taxonomies that support the tag cloud widget."
+msgstr ""

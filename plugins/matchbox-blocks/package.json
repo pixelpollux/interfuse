@@ -1,0 +1,42 @@
+{
+	"name": "matchbox-blocks",
+	"version": "1.0.0",
+	"description": "Custom blocks and extensions built by the Matchbox team.",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.26.10",
+		"@splidejs/splide": "^4.1.4",
+		"@wordpress/block-editor": "^14.15.0",
+		"@wordpress/blocks": "^14.9.0",
+		"@wordpress/components": "^29.6.0",
+		"@wordpress/data": "^10.20.0",
+		"@wordpress/element": "^6.20.0",
+		"@wordpress/eslint-plugin": "^22.8.0",
+		"@wordpress/i18n": "^5.20.0",
+		"@wordpress/icons": "^10.20.0",
+		"@wordpress/keyboard-shortcuts": "^5.20.0",
+		"@wordpress/plugins": "^7.20.0",
+		"@wordpress/scripts": "^30.13.0",
+		"eslint": "^8.57.1",
+		"eslint-config-prettier": "^10.1.2",
+		"eslint-plugin-jsx-a11y": "^6.10.2",
+		"eslint-plugin-react": "^7.37.5",
+		"eslint-plugin-wordpress": "^0.1.0",
+		"prettier": "^3.5.3",
+		"typescript": "^5.8.3"
+	},
+	"dependencies": {
+		"@dnd-kit/core": "^6.3.1",
+		"@dnd-kit/sortable": "^10.0.0",
+		"@dnd-kit/utilities": "^3.2.2",
+		"react": "^18.3.1"
+	}
+}

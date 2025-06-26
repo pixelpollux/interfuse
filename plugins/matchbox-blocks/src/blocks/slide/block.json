@@ -1,0 +1,16 @@
+{
+	"apiVersion": 3,
+	"name": "matchbox/slide",
+	"title": "Slide",
+	"category": "layout",
+	"parent": [
+		"matchbox/slider"
+	],
+	"supports": {
+		"html": false,
+		"reusable": false
+	},
+	"attributes": {},
+	"editorStyle": "file:./editor.css",
+	"style": "file:./style.css"
+}

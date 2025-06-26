@@ -1,0 +1,24 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "kindling/date-range",
+  "title": "Date Range",
+  "description": "An ACF block to display a dates in a range.",
+  "category": "text",
+  "icon": "excerpt-view",
+  "keywords": [
+    "example"
+  ],
+  "version": "1.0.0",
+  "textdomain": "kindling",
+  "supports": {
+    "align": false,
+    "multiple": true,
+    "anchor": false
+  },
+  "acf": {
+    "mode": "preview",
+    "renderTemplate": "date-range.php"
+  },
+  "style": "file:./style.css"
+}

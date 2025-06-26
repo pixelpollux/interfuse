@@ -1,0 +1,60 @@
+// Custom Styles for the slider block.
+.wp-block-matchbox-slider.splide {
+	--arrow-color: #20b2aa;
+	--arrow-hover: #57e1d9;
+	--pagination-inactive-color: #ccc;
+	--pagination-active-color: #20b2aa;
+	--pagination-active-hover-color: #57e1d9;
+
+	.splide__arrow svg {
+		fill: var(--arrow-color);
+
+		&:hover {
+			fill: var(--arrow-hover);
+		}
+	}
+
+	.splide__pagination__page {
+		background: var(--pagination-inactive-color);
+
+		&.is-active {
+			background: var(--pagination-active-color);
+
+			&:hover {
+				background: var(--pagination-active-hover-color);
+			}
+		}
+	}
+
+	&[data-arrows="false"] {
+		padding-left: 0;
+		padding-right: 0;
+	}
+	&[data-pagination="false"] {
+		padding-bottom: 0;
+		padding-top: 0;
+	}
+}
+
+// Custom Styles for the boxed carousel variation.
+.slider-block-boxed-carousel.splide {
+	.splide__track {
+		padding-right: 0 !important;
+		.splide__list {
+			.splide__slide {
+				.slide-content {
+					&__image {
+						aspect-ratio: 1/1;
+						max-height: 100%;
+
+						img {
+							height: 100%;
+							width: 100%;
+							object-fit: cover;
+						}
+					}
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,51 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "ub/click-to-tweet",
+  "title": "Click to Tweet",
+  "category": "ultimateblocks",
+  "description": "Add tweetable content with this easy to use block.",
+  "keywords": [
+    "Click to tweet",
+    "Twitter",
+    "Ultimate Blocks"
+  ],
+  "attributes": {
+    "blockID": {
+      "type": "string",
+      "default": ""
+    },
+    "ubTweet": {
+      "type": "string",
+      "default": ""
+    },
+    "ubVia": {
+      "type": "string",
+      "default": ""
+    },
+    "tweetFontSize": {
+      "type": "number",
+      "default": 20
+    },
+    "tweetColor": {
+      "type": "string",
+      "default": ""
+    },
+    "borderColor": {
+      "type": "string",
+      "default": "#CCCCCC"
+    },
+    "padding": {
+      "type": "object",
+      "default": {}
+    },
+    "margin": {
+      "type": "object",
+      "default": {}
+    }
+  },
+  "supports": {},
+  "editorStyle": "ultimate_blocks-cgb-block-editor-css",
+  "editorScript": "ultimate_blocks-cgb-block-js",
+  "style": "ultimate_blocks-cgb-style-css"
+}

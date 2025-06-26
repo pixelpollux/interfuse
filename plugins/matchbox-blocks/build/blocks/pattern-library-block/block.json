@@ -1,0 +1,21 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "matchbox/pattern-library-block",
+  "version": "0.1.0",
+  "title": "Matchbox Pattern Library",
+  "category": "design",
+  "description": "A block for displaying patterns from the Matchbox Pattern Library.",
+  "example": {},
+  "supports": {
+    "inserter": false
+  },
+  "attributes": {
+    "style": {
+      "type": "object"
+    }
+  },
+  "textdomain": "pattern-library-block",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css"
+}

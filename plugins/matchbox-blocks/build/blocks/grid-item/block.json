@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "matchbox/grid-item",
+  "version": "0.1.0",
+  "title": "Grid Item",
+  "category": "design",
+  "description": "A grid item to use within grid layouts.",
+  "example": {},
+  "supports": {
+    "html": false,
+    "color": {
+      "background": false,
+      "text": false
+    },
+    "__experimentalGridItem": true
+  },
+  "attributes": {
+    "style": {
+      "type": "object"
+    }
+  },
+  "textdomain": "grid-item",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css",
+  "viewScript": "file:./view.js"
+}

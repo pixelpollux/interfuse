@@ -1,0 +1,1589 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+	<!-- generator="WordPress/6.7" created="2024-11-13 19:52" -->
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Stories</title>
+	<link>https://demo.twentig.com/tt5-news</link>
+	<description></description>
+	<pubDate>Wed, 13 Nov 2024 19:52:37 +0000</pubDate>
+	<language>en-US</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://demo.twentig.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.twentig.com/tt5-news</wp:base_blog_url>
+
+		<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[twentigauthor]]></wp:author_login><wp:author_email><![CDATA[email@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Twentig Author]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+				<wp:term>
+		<wp:term_id>3</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[footer]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[footer]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>4</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_template_part_area]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[header]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[header]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>2</wp:term_id>
+		<wp:term_taxonomy><![CDATA[wp_theme]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[twentytwentyfive]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[twentytwentyfive]]></wp:term_name>
+	</wp:term>
+		
+	<generator>https://wordpress.org/?v=6.7</generator>
+
+		
+					<item>
+		<title><![CDATA[Home]]></title>
+		<link>https://demo.twentig.com/tt5-news/</link>
+		<pubDate>Wed, 13 Nov 2024 18:44:38 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"tagName":"main","align":"full","layout":{"type":"constrained"}} -->
+<main class="wp-block-group alignfull"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|50"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"25%","style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:query {"query":{"perPage":1,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results --></div>
+<!-- /wp:query -->
+
+<!-- wp:query {"query":{"perPage":1,"pages":0,"offset":"3","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"50%"} -->
+<div class="wp-block-column" style="flex-basis:50%"><!-- wp:query {"query":{"perPage":1,"pages":0,"offset":"1","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"4/3"} /-->
+
+<!-- wp:post-title {"level":1,"isLink":true} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /-->
+
+<!-- wp:post-excerpt {"excerptLength":35,"fontSize":"medium"} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%","style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:query {"query":{"perPage":1,"pages":0,"offset":"2","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query -->
+
+<!-- wp:query {"query":{"perPage":1,"pages":0,"offset":"4","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"blockGap":"var:preset|spacing|50"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:query {"query":{"perPage":2,"pages":0,"offset":"5","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"style":{"spacing":{"blockGap":"var:preset|spacing|50"}},"layout":{"type":"grid","columnCount":2}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"3/2"} /-->
+
+<!-- wp:post-title {"isLink":true,"fontSize":"x-large"} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:query {"query":{"perPage":6,"pages":0,"offset":"7","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false,"taxQuery":null,"parents":[]},"align":"wide"} -->
+<div class="wp-block-query alignwide"><!-- wp:post-template {"style":{"spacing":{"blockGap":"var:preset|spacing|50"}},"layout":{"type":"grid","columnCount":3}} -->
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:post-featured-image {"isLink":true,"aspectRatio":"4/3"} /-->
+
+<!-- wp:post-title {"isLink":true,"fontSize":"large"} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /--></div>
+<!-- /wp:group -->
+<!-- /wp:post-template --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>5</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:44:38]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:44:38]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://demo.twentig.com/tt5-news/blog/</link>
+		<pubDate>Wed, 13 Nov 2024 18:45:27 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:45:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:45:27]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Podcast]]></title>
+		<link>https://demo.twentig.com/tt5-news/podcast/</link>
+		<pubDate>Wed, 13 Nov 2024 18:49:26 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","className":"is-style-section-2","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-section-2" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|60","left":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="THEME_URL/assets/images/hero-podcast.webp" alt="Picture of a person"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"60%","style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:60%"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">The Stories Podcast</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Storytelling, expert analysis, and vivid descriptions. The Stories Podcast brings history to life, making it accessible and engaging for a global audience.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","flexWrap":"wrap"}} -->
+<div class="wp-block-group"><!-- wp:heading {"level":3,"style":{"typography":{"textTransform":"uppercase","letterSpacing":"1px","fontStyle":"normal","fontWeight":"600"}},"fontSize":"small"} -->
+<h3 class="wp-block-heading has-small-font-size" style="font-style:normal;font-weight:600;letter-spacing:1px;text-transform:uppercase">Subscribe on your favorite platform</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"wrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"className":"is-style-text-annotation"} -->
+<p class="is-style-text-annotation"><a href="#">YouTube</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-text-annotation"} -->
+<p class="is-style-text-annotation"><a href="#">Apple Podcasts</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-text-annotation"} -->
+<p class="is-style-text-annotation"><a href="#">Spotify</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-text-annotation"} -->
+<p class="is-style-text-annotation"><a href="#">Pocket Casts</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"className":"is-style-text-annotation"} -->
+<p class="is-style-text-annotation"><a href="#">RSS</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|60","left":"var:preset|spacing|80"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":"50%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:heading {"className":"wp-block-heading"} -->
+<h2 class="wp-block-heading">About the podcast</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The Stories Podcast is your gateway to exploring history in a fresh, immersive way. Through storytelling, expert insights, and vivid narration, each episode delves into moments that shaped our world, making complex histories accessible and relevant for listeners everywhere. From forgotten tales to well-known legends, our podcast brings voices from the past to life, creating a captivating audio archive that both educates and inspires.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","width":"50%","layout":{"type":"default"}} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:50%"><!-- wp:image {"aspectRatio":"1","scale":"cover","sizeSlug":"full"} -->
+<figure class="wp-block-image size-full"><img src="THEME_URL/assets/images/ruins-image.webp" alt="Cliff Palace, Colorado" style="aspect-ratio:1;object-fit:cover"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","className":"is-style-section-1","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-section-1" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">The Stories Podcast is sponsored by</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|30"} -->
+<div style="height:var(--wp--preset--spacing--30)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
+<div class="wp-block-group alignwide"><!-- wp:image {"id":13,"width":"150px","aspectRatio":"4/3","scale":"contain","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/sponsor.png" alt="" class="wp-image-13" style="aspect-ratio:4/3;object-fit:contain;width:150px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":13,"width":"150px","aspectRatio":"4/3","scale":"contain","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/sponsor.png" alt="" class="wp-image-13" style="aspect-ratio:4/3;object-fit:contain;width:150px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":13,"width":"150px","aspectRatio":"4/3","scale":"contain","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/sponsor.png" alt="" class="wp-image-13" style="aspect-ratio:4/3;object-fit:contain;width:150px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":13,"width":"150px","aspectRatio":"4/3","scale":"contain","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/sponsor.png" alt="" class="wp-image-13" style="aspect-ratio:4/3;object-fit:contain;width:150px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":13,"width":"150px","aspectRatio":"4/3","scale":"contain","sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full is-resized"><img src="http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/sponsor.png" alt="" class="wp-image-13" style="aspect-ratio:4/3;object-fit:contain;width:150px"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"},"blockGap":"var:preset|spacing|50","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"left","align":"wide","className":"is-style-text-subtitle","style":{"layout":{"selfStretch":"fit","flexSize":null}},"fontSize":"x-large"} -->
+<h2 class="wp-block-heading alignwide has-text-align-left is-style-text-subtitle has-x-large-font-size">Explore the episodes</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"is-style-text-annotation"} -->
+<p class="is-style-text-annotation">Podcast</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|50"}},"layout":{"type":"grid","minimumColumnWidth":"19rem"}} -->
+<div class="wp-block-group alignwide"><!-- wp:video -->
+<figure class="wp-block-video"><video controls poster="THEME_URL/assets/images/delphinium-flowers.webp" src="https://example.com/video.webm"></video></figure>
+<!-- /wp:video -->
+
+<!-- wp:video -->
+<figure class="wp-block-video"><video controls poster="THEME_URL/assets/images/man-in-hat.webp" src="https://example.com/video.webm"></video></figure>
+<!-- /wp:video -->
+
+<!-- wp:video -->
+<figure class="wp-block-video"><video controls poster="THEME_URL/assets/images/parthenon-square.webp" src="https://example.com/video.webm"></video></figure>
+<!-- /wp:video -->
+
+<!-- wp:video -->
+<figure class="wp-block-video"><video controls poster="THEME_URL/assets/images/typewriter.webp" src="https://example.com/video.webm"></video></figure>
+<!-- /wp:video -->
+
+<!-- wp:video -->
+<figure class="wp-block-video"><video controls poster="THEME_URL/assets/images/star-thristle-flower.webp" src="https://example.com/video.webm"></video></figure>
+<!-- /wp:video -->
+
+<!-- wp:video -->
+<figure class="wp-block-video"><video controls poster="THEME_URL/assets/images/woman-splashing-water.webp" src="https://example.com/video.webm"></video></figure>
+<!-- /wp:video --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:49:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:49:26]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[podcast]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[sponsor]]></title>
+		<link>https://demo.twentig.com/tt5-news/podcast/sponsor/</link>
+		<pubDate>Wed, 13 Nov 2024 18:48:59 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:48:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:48:59]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sponsor]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>12</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/sponsor.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/11/sponsor.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:224;s:4:"file";s:19:"2024/11/sponsor.png";s:8:"filesize";i:1536;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:19:"sponsor-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2059;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://demo.twentig.com/tt5-news/about/</link>
+		<pubDate>Wed, 13 Nov 2024 18:50:08 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"level":1,"align":"wide"} -->
+<h1 class="wp-block-heading alignwide">About</h1>
+<!-- /wp:heading -->
+
+<!-- wp:image {"sizeSlug":"large","linkDestination":"none","align":"wide","style":{"spacing":{"margin":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}}} -->
+<figure class="wp-block-image alignwide size-large" style="margin-top:var(--wp--preset--spacing--70);margin-bottom:var(--wp--preset--spacing--70)"><img src="THEME_URL/assets/images/northern-buttercups-flowers.webp" alt=""/></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Stories is an innovative academic initiative and online publication dedicated to celebrating history and ancestry from all corners of the world. Our platform is committed to showcasing and featuring visual documentation of historical relevance, providing a rich insight of our collective past. Through meticulously curated content, Stories brings to light the diverse narratives and cultural heritage that shape our global society.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>We believe in the power of imagery to connect us to our roots and to each other. Our featured photographers are selected for their ability to capture moments of historical significance, creating a visual archive that spans generations and continents. Each photograph is accompanied by insightful commentary and research, offering a deeper understanding of its context and impact.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In addition to our online publication, Stories hosts a variety of events designed to engage and educate our audience. These events include exhibitions, workshops, and lectures, where historians, photographers, and enthusiasts come together to explore the intricate tapestry of human history. Our events provide a platform for discussion and learning, fostering a community of individuals passionate about preserving and celebrating our shared heritage.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Through our commitment to excellence in both content and community engagement, Stories aims to inspire a greater appreciation for history and ancestry. We invite you to join us on this journey, as we continue to uncover and share the stories that define who we are.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>If you have any questions or just want to say hello, please don’t hesitate to contact us at <a href="mailto:contact@example.com">contact@example.com</a>.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:50:08]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:50:08]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Subscribe]]></title>
+		<link>https://demo.twentig.com/tt5-news/subscribe/</link>
+		<pubDate>Wed, 13 Nov 2024 18:50:54 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"metadata":{"categories":["call-to-action","services"],"patternName":"twentytwentyfive/services-subscriber-only-section","name":"Services, subscriber only section"},"align":"full","className":"is-style-section-4","style":{"spacing":{"blockGap":"var:preset|spacing|50","padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-section-4" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|70","left":"var:preset|spacing|70"}}}} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":1} -->
+<h1 class="wp-block-heading">Subscribe to get unlimited access</h1>
+<!-- /wp:heading -->
+
+<!-- wp:list {"className":"is-style-checkmark-list","style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"},"padding":{"left":"var:preset|spacing|30"}}}} -->
+<ul style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--30)" class="wp-block-list is-style-checkmark-list"><!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Get access to our paid articles and weekly newsletter.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Join our IRL events.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Get a free tote bag.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">An elegant addition of home decor collection.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"medium"} -->
+<li class="has-medium-font-size">Join our forums.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"left","flexWrap":"nowrap"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-fill"} -->
+<div class="wp-block-button is-style-fill"><a class="wp-block-button__link wp-element-button">Subscribe</a></div>
+<!-- /wp:button -->
+
+<!-- wp:button {"className":"is-style-outline"} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link wp-element-button">View plans</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">Cancel or pause anytime.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="THEME_URL/assets/images/services-subscriber-photo.webp" alt="Smartphones capturing a scenic wildflower meadow with trees"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:pattern {"slug":"twentytwentyfive/text-faqs"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:50:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:50:54]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[subscribe]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page-no-title]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Lessons in letting go from the unscripted movements of nature]]></title>
+		<link>https://demo.twentig.com/tt5-news/lessons-in-letting-go-from-the-unscripted-movements-of-nature/</link>
+		<pubDate>Fri, 01 Nov 2024 19:15:53 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>There is a quiet wisdom in nature’s ability to adapt without struggle, to move fluidly with the world’s rhythms. Watching birds drift on invisible currents, or leaves dance with the wind, we are reminded that life doesn’t always need to be controlled or directed. Nature teaches us that sometimes the most powerful approach is to release our grip, allowing ourselves to be carried by forces larger than we are. In these moments of surrender, there is freedom, a sense of harmony that we often miss in our constant pursuit of structure.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In a world that values control and certainty, letting go can feel like an act of defiance. Yet, nature shows us that letting go is not a loss; it is a way to gain perspective. When we stop resisting, we become more open to the beauty and possibilities around us, discovering paths we might never have considered. The seagull soaring across the sky or the river winding its way through rocks doesn’t fight against its environment. Instead, it moves with it, finding balance within change, strength within adaptation. In observing these unscripted movements, we see that true resilience often lies in flexibility.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>By embracing the art of letting go, we allow ourselves to experience life as it unfolds, unburdened by rigid expectations. We find that life’s currents, unpredictable as they may be, often carry us to places we need to be. Like nature’s unscripted dance, we learn to trust the process, finding peace in the understanding that not everything requires control.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>35</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-01 19:15:53]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-01 19:15:53]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[lessons-in-letting-go-from-the-unscripted-movements-of-nature]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[36]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[gull]]></title>
+		<link>https://demo.twentig.com/tt5-news/lessons-in-letting-go-from-the-unscripted-movements-of-nature/gull/</link>
+		<pubDate>Wed, 13 Nov 2024 19:21:19 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>36</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:21:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:21:19]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[gull]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>35</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/gull.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/11/gull.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1340;s:6:"height";i:890;s:4:"file";s:17:"2024/11/gull.webp";s:8:"filesize";i:13128;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:17:"gull-300x199.webp";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2922;}s:5:"large";a:5:{s:4:"file";s:18:"gull-1024x680.webp";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12870;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"gull-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1526;}s:12:"medium_large";a:5:{s:4:"file";s:17:"gull-768x510.webp";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:8828;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Embracing the small miracles in everyday bloom]]></title>
+		<link>https://demo.twentig.com/tt5-news/embracing-the-small-miracles-in-everyday-bloom/</link>
+		<pubDate>Sat, 02 Nov 2024 19:23:40 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Amidst the rush of daily life, there are tiny, often unnoticed wonders quietly unfolding around us. This flower, modest yet vibrant, stands as a reminder of the beauty that exists in simplicity. It doesn’t seek the spotlight or demand attention, yet its delicate structure and rich colors are a testament to nature’s artistry. In its gentle bloom, we’re invited to pause, to notice, to appreciate the small miracles that grace our lives each day.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is a quiet strength in things that grow without expectation, simply finding their place in the world. This single bloom, with its soft petals and vibrant heart, seems to embody resilience—an ability to thrive in its own space, despite the challenges that might surround it. The beauty of such a moment is in its transience, a reminder that life’s most profound experiences often come and go quietly, leaving us with a sense of peace. These fleeting moments, like the bloom of a flower, teach us that not everything precious demands permanence; some things are meant to be cherished precisely because they are brief.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>In a world that often feels too fast, taking a moment to truly see a flower in bloom can ground us. It’s a reminder of the gentle rhythms that continue whether we notice them or not, an invitation to reconnect with our own cycles of growth, and to find joy in the subtle wonders that color our lives in ways we might overlook. Each small bloom is a testament to the resilience of life, a reminder that beauty often lies in the details we pass by, urging us to slow down and embrace these moments of quiet grace.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>38</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-02 19:23:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-02 19:23:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[embracing-the-small-miracles-in-everyday-bloom]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[39]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[aster]]></title>
+		<link>https://demo.twentig.com/tt5-news/embracing-the-small-miracles-in-everyday-bloom/aster/</link>
+		<pubDate>Wed, 13 Nov 2024 19:24:04 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>39</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:24:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:24:04]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[aster]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>38</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/aster.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/11/aster.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1340;s:6:"height";i:890;s:4:"file";s:18:"2024/11/aster.webp";s:8:"filesize";i:17908;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"aster-300x199.webp";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:4306;}s:5:"large";a:5:{s:4:"file";s:19:"aster-1024x680.webp";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:18370;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"aster-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2816;}s:12:"medium_large";a:5:{s:4:"file";s:18:"aster-768x510.webp";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13054;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Finding grace amidst life’s unseen struggles]]></title>
+		<link>https://demo.twentig.com/tt5-news/finding-grace-amidst-lifes-unseen-struggles/</link>
+		<pubDate>Tue, 05 Nov 2024 19:25:33 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>There are times when life stretches out before us like a vast, uncharted landscape—a world both breathtaking and daunting in its immensity. Moving through it, we often find ourselves faced with challenges that seem insurmountable, each step forward requiring strength we may not know we possess. In these difficult moments, we are tested, and it is here, in the heart of struggle, that we begin to find our resilience. Like a lone deer carving a path through deep snow, every movement is intentional, each push forward a testament to an inner drive that refuses to yield to obstacles or hardship.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Struggle has a way of revealing qualities we rarely see in ourselves during moments of ease. In the same way that a creature moves carefully through harsh winter terrain, we too learn to navigate life’s difficulties with a balance of determination and vulnerability. It is not the easy, open paths that shape us, but rather the challenging stretches, where progress is slow and hard-won. These trials teach us to appreciate each small victory, to embrace a quiet kind of strength that doesn’t shout or seek recognition. Instead, it’s a strength that resides deeply within, anchored by our ability to endure and continue, no matter how uncertain or wearying the journey may feel.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Looking back, we often find that these moments of struggle have left an indelible mark on who we are. They remind us that true grace is not the absence of hardship but the way we carry ourselves through it.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>41</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-05 19:25:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-05 19:25:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[finding-grace-amidst-lifes-unseen-struggles]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[42]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[deer]]></title>
+		<link>https://demo.twentig.com/tt5-news/finding-grace-amidst-lifes-unseen-struggles/deer/</link>
+		<pubDate>Wed, 13 Nov 2024 19:28:12 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>42</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:28:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:28:12]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[deer]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>41</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/deer.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/11/deer.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1340;s:6:"height";i:890;s:4:"file";s:17:"2024/11/deer.webp";s:8:"filesize";i:19096;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:17:"deer-300x199.webp";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3908;}s:5:"large";a:5:{s:4:"file";s:18:"deer-1024x680.webp";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:18630;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"deer-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1996;}s:12:"medium_large";a:5:{s:4:"file";s:17:"deer-768x510.webp";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:13268;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[The lasting connections that shape a neighborhood]]></title>
+		<link>https://demo.twentig.com/tt5-news/the-lasting-connections-that-shape-a-neighborhood/</link>
+		<pubDate>Thu, 07 Nov 2024 19:28:18 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In cities that never seem to pause, there are neighborhoods where the rhythm is slower, and connections run deep. These are places where relationships are built not on fleeting moments but on steady, shared experiences. Here, the heartbeat of the community lies not in grand events but in familiar faces seen in corner stores, local libraries, and community gardens. It’s these everyday exchanges that create an unspoken sense of trust, forming bonds that stand resilient even as the world outside changes at breakneck speed.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Local associations and gathering spaces—whether a long-standing bakery, a family-owned bookstore, or a weekend farmers’ market—are the unsung anchors of these neighborhoods. They provide not just goods and services but places where conversations flow freely, advice is shared, and laughter comes easily. Each small business or community spot becomes a piece of the larger neighborhood puzzle, contributing to a collective identity that makes residents feel seen and valued. In these spaces, it’s clear that the spirit of community is woven through daily interactions that, while seemingly ordinary, have an extraordinary way of making a place feel like home.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>As cities continue to grow and technology connects us to distant places, the pull of local, face-to-face connections has only grown stronger. In neighborhoods like these, the real value lies not in the newest trends or the busiest streets but in the constancy of shared spaces, familiar voices, and mutual support.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>44</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-07 19:28:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-07 19:28:18]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-lasting-connections-that-shape-a-neighborhood]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[45]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[woman]]></title>
+		<link>https://demo.twentig.com/tt5-news/the-lasting-connections-that-shape-a-neighborhood/woman/</link>
+		<pubDate>Wed, 13 Nov 2024 19:28:51 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>45</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:28:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:28:51]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[woman]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>44</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/woman.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/11/woman.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1340;s:6:"height";i:890;s:4:"file";s:18:"2024/11/woman.webp";s:8:"filesize";i:23860;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"woman-300x199.webp";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:6160;}s:5:"large";a:5:{s:4:"file";s:19:"woman-1024x680.webp";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:26162;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"woman-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3440;}s:12:"medium_large";a:5:{s:4:"file";s:18:"woman-768x510.webp";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:18550;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[The calm emergence of growth and resilience]]></title>
+		<link>https://demo.twentig.com/tt5-news/the-calm-emergence-of-growth-and-resilience/</link>
+		<pubDate>Sun, 10 Nov 2024 19:29:02 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In a world that often celebrates grandeur and speed, there is something quietly powerful about growth that happens gradually, almost imperceptibly. Like the delicate buds of a wildflower pushing through the cold ground, the most profound transformations often begin in silence, hidden from view. It is only with patience and time that we see the small, resilient steps that bring something beautiful into existence, a reminder that true change seldom happens overnight.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Life’s most significant growth often takes place beneath the surface, where it remains unseen and unacknowledged until it’s ready to bloom. This journey requires resilience, a commitment to continue pushing forward despite the challenges or unseen obstacles that lie ahead. Much like the wildflower that endures harsh conditions, we too gather strength in moments of solitude and adversity, nurturing the small changes that eventually reveal themselves in ways that are lasting and true. These are the moments when we learn the art of persistence, of holding steady even when progress feels slow.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>When we witness growth that has been nurtured quietly, we’re reminded of the beauty that patience and resilience bring to our lives. Each delicate bud, every subtle unfolding of petal and stem, carries a testament to the unseen work that makes transformation possible.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>47</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-10 19:29:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-10 19:29:02]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[the-calm-emergence-of-growth-and-resilience]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[48]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							
+							</item>
+					<item>
+		<title><![CDATA[bloodwort]]></title>
+		<link>https://demo.twentig.com/tt5-news/the-calm-emergence-of-growth-and-resilience/bloodwort/</link>
+		<pubDate>Wed, 13 Nov 2024 19:30:11 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>48</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:30:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:30:11]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bloodwort]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>47</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/bloodwort.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/11/bloodwort.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1340;s:6:"height";i:890;s:4:"file";s:22:"2024/11/bloodwort.webp";s:8:"filesize";i:15366;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:22:"bloodwort-300x199.webp";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3598;}s:5:"large";a:5:{s:4:"file";s:23:"bloodwort-1024x680.webp";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:15260;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"bloodwort-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:2014;}s:12:"medium_large";a:5:{s:4:"file";s:22:"bloodwort-768x510.webp";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:10942;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Where solitude meets profound reflection]]></title>
+		<link>https://demo.twentig.com/tt5-news/where-solitude-meets-profound-reflection/</link>
+		<pubDate>Mon, 11 Nov 2024 19:30:28 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>In the quiet hours, when we finally let go of the need for constant interaction, we come face-to-face with solitude. There’s a peculiar kind of peace in those moments, a stillness that isn’t lonely but rather open and vast. Here, away from the demands and hum of daily life, we find the rare opportunity to listen—to thoughts that have been whispering beneath the surface, to memories that float up like reflections in calm water. In this gentle silence, we’re reminded of the parts of ourselves that often go unnoticed, patiently waiting to be rediscovered.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Solitude offers a vantage point that life’s momentum often obscures. Much like a lake holding the sky’s reflection, it gives us a view of ourselves that is clearer and more honest. In solitude, we are both the observer and the observed, noticing what we carry, what we’ve let slip, and what has settled deep within. It’s a space where we reconnect with our own values and intentions, re-centering before we re-enter the world of movement and noise. This perspective, born from stillness, reveals nuances in ourselves that are invisible in the rush of daily routines.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>There is a beauty to be found in this unhurried encounter with the self. It doesn’t demand action or resolution but invites us to simply be. When we embrace solitude, we touch a quiet strength, a steadiness that softens the need to rush, allowing us to move forward with a sense of presence and purpose that is as grounding as it is liberating. In learning to welcome our own company, we come to understand that the peace we seek is not found in the world around us but within.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>50</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-11 19:30:28]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-11 19:30:28]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[where-solitude-meets-profound-reflection]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[lake]]></title>
+		<link>https://demo.twentig.com/tt5-news/where-solitude-meets-profound-reflection/lake/</link>
+		<pubDate>Wed, 13 Nov 2024 19:30:56 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>51</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:30:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:30:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[lake]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>50</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/lake.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/11/lake.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1340;s:6:"height";i:890;s:4:"file";s:17:"2024/11/lake.webp";s:8:"filesize";i:18702;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:17:"lake-300x199.webp";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3904;}s:5:"large";a:5:{s:4:"file";s:18:"lake-1024x680.webp";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:17674;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"lake-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1752;}s:12:"medium_large";a:5:{s:4:"file";s:17:"lake-768x510.webp";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:12626;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[birds]]></title>
+		<link>https://demo.twentig.com/tt5-news/navigating-the-quiet-moments-within-the-noise/birds/</link>
+		<pubDate>Wed, 13 Nov 2024 19:31:50 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>54</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:31:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:31:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[birds]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>53</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[http://demo.twentig.com/tt5-news/wp-content/uploads/sites/23/2024/11/birds.webp]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/11/birds.webp]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1340;s:6:"height";i:890;s:4:"file";s:18:"2024/11/birds.webp";s:8:"filesize";i:14132;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:18:"birds-300x199.webp";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:3096;}s:5:"large";a:5:{s:4:"file";s:19:"birds-1024x680.webp";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:14076;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"birds-150x150.webp";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:1530;}s:12:"medium_large";a:5:{s:4:"file";s:18:"birds-768x510.webp";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/webp";s:8:"filesize";i:9520;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Custom Styles]]></title>
+		<link>https://demo.twentig.com/tt5-news/wp-global-styles-twentytwentyfive/</link>
+		<pubDate>Wed, 13 Nov 2024 18:43:33 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[{"styles":{"typography":{"fontStyle":"normal","fontWeight":"400","fontSize":"var:preset|font-size|medium","lineHeight":"1.5","letterSpacing":"0px"}},"isGlobalStylesUserThemeJSON":true,"version":3}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:43:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:43:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[wp-global-styles-twentytwentyfive]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_global_styles]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://demo.twentig.com/tt5-news/navigation/</link>
+		<pubDate>Wed, 13 Nov 2024 18:44:35 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Blog","type":"page","id":10,"url":"https://demo.twentig.com/tt5-news/blog/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Podcast","type":"page","id":12,"url":"https://demo.twentig.com/tt5-news/podcast/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"About","type":"page","id":15,"url":"https://demo.twentig.com/tt5-news/about/","kind":"post-type"} /-->
+
+<!-- wp:navigation-link {"label":"Subscribe","type":"page","id":17,"url":"https://demo.twentig.com/tt5-news/subscribe/","kind":"post-type"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:44:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:44:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Social Navigation]]></title>
+		<link>https://demo.twentig.com/tt5-news/social-navigation/</link>
+		<pubDate>Wed, 13 Nov 2024 18:56:22 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"Instagram","url":"#","kind":"custom"} /-->
+
+<!-- wp:navigation-link {"label":"YouTube","url":"#","kind":"custom"} /-->
+
+<!-- wp:navigation-link {"label":"LinkedIn","url":"#","kind":"custom"} /-->
+
+<!-- wp:navigation-link {"label":"Facebook","url":"#","kind":"custom"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>19</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:56:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:56:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[social-navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>https://demo.twentig.com/tt5-news/footer/</link>
+		<pubDate>Wed, 13 Nov 2024 18:56:22 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"className":"is-style-section-3","style":{"spacing":{"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-section-3" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:site-logo /-->
+
+<!-- wp:group {"align":"full","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between","verticalAlignment":"top"}} -->
+<div class="wp-block-group alignfull"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":"100%"} -->
+<div class="wp-block-column" style="flex-basis:100%"><!-- wp:site-title {"level":2} /-->
+
+<!-- wp:site-tagline /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:spacer {"height":"var:preset|spacing|40","width":"0px"} -->
+<div style="height:var(--wp--preset--spacing--40);width:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|80"}},"layout":{"type":"flex","flexWrap":"wrap","verticalAlignment":"top","justifyContent":"space-between"}} -->
+<div class="wp-block-group"><!-- wp:navigation {"ref":8,"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} /-->
+
+<!-- wp:navigation {"ref":19,"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignfull"><!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">© Copyright 2025.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">
+				Designed with <a href="https://wordpress.org" rel="nofollow">WordPress</a>			</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>20</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:56:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:56:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Header]]></title>
+		<link>https://demo.twentig.com/tt5-news/header/</link>
+		<pubDate>Wed, 13 Nov 2024 18:56:22 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"align":"full","style":{"border":{"bottom":{"color":"var:preset|color|accent-6","width":"1px"},"top":{},"right":{},"left":{}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group alignfull" style="border-bottom-color:var(--wp--preset--color--accent-6);border-bottom-width:1px"><!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30)"><!-- wp:site-title {"level":0,"fontSize":"large"} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right"}} -->
+<div class="wp-block-group"><!-- wp:navigation {"ref":8,"overlayBackgroundColor":"base","overlayTextColor":"contrast","layout":{"type":"flex","justifyContent":"left","flexWrap":"wrap"}} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:56:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:56:22]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[header]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_template_part_area" nicename="header"><![CDATA[header]]></category>
+		<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[All Archives]]></title>
+		<link>https://demo.twentig.com/tt5-news/archive/</link>
+		<pubDate>Wed, 13 Nov 2024 18:58:45 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfive"} /-->
+
+<!-- wp:group {"tagName":"main","layout":{"type":"constrained"}} -->
+<main class="wp-block-group"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query-title {"type":"archive"} /-->
+
+<!-- wp:term-description /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:query {"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true,"taxQuery":null,"parents":[]}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}},"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}}}} -->
+<div class="wp-block-columns" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"><!-- wp:post-date /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /-->
+
+<!-- wp:post-excerpt {"showMoreOnNewLine":false,"fontSize":"medium"} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0.12em"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}}},"textColor":"accent-4","fontSize":"small"} -->
+<p class="has-accent-4-color has-text-color has-link-color has-small-font-size">Written by</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-author-name {"isLink":true,"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"><!-- wp:post-featured-image {"aspectRatio":"1"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:post-template -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous /-->
+
+<!-- wp:query-pagination-numbers /-->
+
+<!-- wp:query-pagination-next /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:group -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfive"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>26</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:58:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:58:45]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[archive]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Blog Home]]></title>
+		<link>https://demo.twentig.com/tt5-news/home/</link>
+		<pubDate>Wed, 13 Nov 2024 18:59:21 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfive"} /-->
+
+<!-- wp:group {"tagName":"main","layout":{"type":"constrained"}} -->
+<main class="wp-block-group"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:pattern {"slug":"twentytwentyfive/hidden-blog-heading"} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:query {"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true,"taxQuery":null,"parents":[]}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}},"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}}}} -->
+<div class="wp-block-columns" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"><!-- wp:post-date /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /-->
+
+<!-- wp:post-excerpt {"showMoreOnNewLine":false,"fontSize":"medium"} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0.12em"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}}},"textColor":"accent-4","fontSize":"small"} -->
+<p class="has-accent-4-color has-text-color has-link-color has-small-font-size">Written by</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-author-name {"isLink":true,"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"><!-- wp:post-featured-image {"aspectRatio":"1"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:post-template -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous /-->
+
+<!-- wp:query-pagination-numbers /-->
+
+<!-- wp:query-pagination-next /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:group -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfive"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>29</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 18:59:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 18:59:21]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[home]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Search Results]]></title>
+		<link>https://demo.twentig.com/tt5-news/search/</link>
+		<pubDate>Wed, 13 Nov 2024 19:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfive"} /-->
+
+<!-- wp:group {"tagName":"main","layout":{"type":"constrained"}} -->
+<main class="wp-block-group"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:query-title {"type":"search"} /-->
+
+<!-- wp:pattern {"slug":"twentytwentyfive/hidden-search"} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:query {"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true,"taxQuery":null,"parents":[]}} -->
+<div class="wp-block-query"><!-- wp:post-template -->
+<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"},"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}},"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}}}} -->
+<div class="wp-block-columns" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)"><!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"><!-- wp:post-date /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:post-title {"isLink":true} /-->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /-->
+
+<!-- wp:post-excerpt {"showMoreOnNewLine":false,"fontSize":"medium"} /-->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0.12em"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|accent-4"}}}},"textColor":"accent-4","fontSize":"small"} -->
+<p class="has-accent-4-color has-text-color has-link-color has-small-font-size">Written by</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-author-name {"isLink":true,"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"20%"} -->
+<div class="wp-block-column" style="flex-basis:20%"><!-- wp:post-featured-image {"aspectRatio":"1"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+<!-- /wp:post-template -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"space-between"}} -->
+<!-- wp:query-pagination-previous /-->
+
+<!-- wp:query-pagination-numbers /-->
+
+<!-- wp:query-pagination-next /-->
+<!-- /wp:query-pagination --></div>
+<!-- /wp:group -->
+
+<!-- wp:query-no-results -->
+<!-- wp:paragraph -->
+<p>Sorry, but nothing was found. Please try a search with different keywords.</p>
+<!-- /wp:paragraph -->
+<!-- /wp:query-no-results -->
+
+<!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer --></div>
+<!-- /wp:query --></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfive"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>30</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:00:47]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:00:47]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[search]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Posts]]></title>
+		<link>https://demo.twentig.com/tt5-news/single/</link>
+		<pubDate>Wed, 13 Nov 2024 19:01:15 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"twentytwentyfive"} /-->
+
+<!-- wp:group {"tagName":"main","layout":{"type":"constrained"}} -->
+<main class="wp-block-group"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide"><!-- wp:spacer {"height":"var:preset|spacing|70"} -->
+<div style="height:var(--wp--preset--spacing--70)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:post-title {"level":1,"align":"wide","fontSize":"xx-large"} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"layout":{"type":"default"}} -->
+<div class="wp-block-group"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--20)"><!-- wp:group {"style":{"spacing":{"blockGap":"4px"}},"fontSize":"small","layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group has-small-font-size"><!-- wp:post-date /-->
+
+<!-- wp:paragraph -->
+<p>·</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:post-terms {"term":"category","style":{"typography":{"textTransform":"uppercase","letterSpacing":"1.4px"}}} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group"><!-- wp:avatar {"size":30,"isLink":true,"style":{"border":{"radius":"100px"}}} /-->
+
+<!-- wp:post-author-name {"isLink":true,"fontSize":"small"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:post-featured-image {"align":"wide"} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|40"},"padding":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--60)"><!-- wp:column {"width":"5%"} -->
+<div class="wp-block-column" style="flex-basis:5%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"65%","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|60"}}}} -->
+<div class="wp-block-column" style="padding-bottom:var(--wp--preset--spacing--60);flex-basis:65%"><!-- wp:post-content {"layout":{"type":"default"}} /-->
+
+<!-- wp:spacer {"height":"var:preset|spacing|40"} -->
+<div style="height:var(--wp--preset--spacing--40)" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:post-terms {"term":"post_tag","separator":"  ","className":"is-style-post-terms-1","style":{"typography":{"fontStyle":"normal","fontWeight":"400"}}} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"5%"} -->
+<div class="wp-block-column" style="flex-basis:5%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"><!-- wp:template-part {"slug":"sidebar","theme":"twentytwentyfive"} /--></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"5%"} -->
+<div class="wp-block-column" style="flex-basis:5%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"var:preset|spacing|60","bottom":"var:preset|spacing|60"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="margin-top:var(--wp--preset--spacing--60);margin-bottom:var(--wp--preset--spacing--60)"><!-- wp:group {"tagName":"nav","align":"wide","style":{"border":{"top":{"color":"var:preset|color|accent-6","width":"1px"}},"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<nav class="wp-block-group alignwide" aria-label="Post navigation" style="border-top-color:var(--wp--preset--color--accent-6);border-top-width:1px;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:post-navigation-link {"type":"previous","showTitle":true,"arrow":"arrow"} /-->
+
+<!-- wp:post-navigation-link {"showTitle":true,"arrow":"arrow"} /--></nav>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"left":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-columns alignwide" style="margin-top:0;margin-bottom:0"><!-- wp:column {"width":"5%"} -->
+<div class="wp-block-column" style="flex-basis:5%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"65%","style":{"spacing":{"padding":{"top":"0","bottom":"0"}}}} -->
+<div class="wp-block-column" style="padding-top:0;padding-bottom:0;flex-basis:65%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}}},"layout":{"type":"default"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0">
+<!-- wp:pattern {"slug":"twentytwentyfive/comments"} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"5%"} -->
+<div class="wp-block-column" style="flex-basis:5%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"25%"} -->
+<div class="wp-block-column" style="flex-basis:25%"></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"5%"} -->
+<div class="wp-block-column" style="flex-basis:5%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></main>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"twentytwentyfive"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:01:15]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:01:15]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[single]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="twentytwentyfive"><![CDATA[twentytwentyfive]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Navigating the quiet moments within the noise]]></title>
+		<link>https://demo.twentig.com/tt5-news/navigating-the-quiet-moments-within-the-noise/</link>
+		<pubDate>Wed, 13 Nov 2024 19:31:56 +0000</pubDate>
+		<dc:creator><![CDATA[twentigauthor]]></dc:creator>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>There are days when the world seems to insist on stillness, nudging us into moments we might otherwise overlook. These pauses, often subtle and unannounced, invite us to step back from the rush and rediscover a rhythm more aligned with our own nature. In these quiet intervals, we find a chance to trace our thoughts as they meander, revealing connections we might have missed in the clamor of busier hours.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Moving through life, we often overlook the value of patience, of slowing down to appreciate the spaces between events. Just as one might watch two birds tracing silent paths across a still pond, there’s a calm in allowing ourselves to exist without agenda, to step lightly through the reflections of our own experiences. It’s here, in this unhurried cadence, that insight and understanding have the chance to surface—shaping us in ways that feel authentic, grounded, and enduring.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Embracing these moments, we learn to let go of the need for constant motion. We see the beauty in simply being, in moving with purpose but without urgency. This balance, so often overshadowed in a world that glorifies speed, holds the key to a quieter, more fulfilling existence. To walk through life with such grace—to move as though each step carries meaning without the need for destination—is perhaps the truest form of wisdom.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>53</wp:post_id>
+		<wp:post_date><![CDATA[2024-11-13 19:31:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-11-13 19:31:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigating-the-quiet-moments-within-the-noise]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[54]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+				</channel>
+</rss>
+	

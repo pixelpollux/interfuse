@@ -1,0 +1,15 @@
+{
+	"name": "matchboxdesigngroup/matchbox-blocks",
+	"description": "Custom blocks and extensions built by the Matchbox team.",
+	"type": "wordpress-plugin",
+	"autoload": {
+		"psr-4": {
+			"Matchbox\\": "src/Matchbox/"
+		}
+	},
+	"require": {},
+	"scripts": {
+		"start": "wp-scripts start",
+		"build": "wp-scripts build"
+	}
+}

@@ -1,0 +1,114 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "matchbox/slider",
+	"version": "0.1.0",
+	"title": "Slider",
+	"category": "design",
+	"icon": "cover-image",
+	"description": "A flexible slider block with multiple layout variations including basic slides, boxed carousel, and posts carousel.",
+	"example": {},
+	"attributes": {
+		"layout": {
+			"type": "string",
+			"default": "basic"
+		},
+		"sliderAlign": {
+			"type": "string",
+			"default": ""
+		},
+		"sliderType": {
+			"type": "string",
+			"default": "slide"
+		},
+		"arrows": {
+			"type": "boolean",
+			"default": true
+		},
+		"arrowsPosition": {
+			"type": "string",
+			"default": "outside"
+		},
+		"pagination": {
+			"type": "boolean",
+			"default": true
+		},
+		"autoplay": {
+			"type": "boolean",
+			"default": false
+		},
+		"interval": {
+			"type": "number",
+			"default": 3000
+		},
+		"rewind": {
+			"type": "boolean",
+			"default": false
+		},
+		"arrowColor": {
+			"type": "string",
+			"default": ""
+		},
+		"arrowHoverColor": {
+			"type": "string",
+			"default": ""
+		},
+		"paginationInactiveColor": {
+			"type": "string",
+			"default": ""
+		},
+		"paginationActiveColor": {
+			"type": "string",
+			"default": ""
+		},
+		"paginationActiveHoverColor": {
+			"type": "string",
+			"default": ""
+		},
+		"itemsMobile": {
+			"type": "number",
+			"default": 1
+		},
+		"itemsTablet": {
+			"type": "number",
+			"default": 2
+		},
+		"itemsDesktop": {
+			"type": "number",
+			"default": 4
+		},
+		"postType": {
+			"type": "string",
+			"default": "post"
+		},
+		"postsToShow": {
+			"type": "number",
+			"default": 10
+		},
+		"gap": {
+			"type": "number",
+			"default": 24
+		},
+		"padding": {
+			"type": "number",
+			"default": 0
+		},
+		"postsPicker": {
+			"type": "string",
+			"default": "most-recent"
+		}
+	},
+	"supports": {
+		"html": false,
+		"align": [
+			"wide",
+			"full"
+		]
+	},
+	"textdomain": "slider",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js",
+	"render": "file:./render.php"
+}
