@@ -1,0 +1,55 @@
+@use 'sizing'as *;
+
+@mixin coloredContainerStyle ($color-200, $color-500, $color-600, $color-700, $color-900) {
+    padding: $space-base;
+    background-color: $color-900;
+    box-shadow: 2px 2px 5px 2px rgba(0, 0, 0, 0.2);
+    border-radius: $space-base;
+
+    h2 {
+        border-bottom: solid $space-xxs $color-900;
+
+        a {
+            font-weight: 800;
+        }
+    }
+
+    h2,
+    h3 {
+        color: $color-900;
+    }
+
+    a {
+        color: $color-600;
+        font-weight: 600;
+
+        &:hover {
+            color: $color-700;
+        }
+    }
+
+    &.colored-container__faq {
+        h2 {
+            border-bottom: solid $space-xxs $color-200;
+
+            a {
+                font-weight: 800;
+            }
+        }
+
+        h2,
+        h3 {
+            color: $color-500;
+        }
+
+        .faq__container> :not(:last-child) {
+            border-bottom: solid 1px #aeadae;
+        }
+    }
+
+    &.principles {
+        h2 {
+            font-size: 36px;
+        }
+    }
+}
