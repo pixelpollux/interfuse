@@ -1,0 +1,42 @@
+@use '../abstracts/helpers';
+
+.home {
+    .home-hero-container__title-container {
+        display: flex;
+        align-items: flex-end;
+        align-self: end;
+        float: none;
+        justify-items: end;
+        justify-self: end;
+        padding: 0 helpers.$space-lg;
+        position: absolute;
+        z-index: 2;
+        margin-bottom: 0rem;
+        max-width: 100vw;
+
+        @media (min-width: 768px)
+
+        /* tablet */
+            {
+            margin-bottom: -(helpers.$space-base);
+        }
+
+        @media (min-width: 1025px)
+
+        /* desktop */
+            {
+            display: block;
+            margin-bottom: -(helpers.$space-lg);
+        }
+    }
+
+    .home-hero-container__hero-title {
+        text-align: center;
+        font-size: clamp(2.5rem, 10vw, 9rem);
+        color: $base;
+        text-shadow: helpers.$purple-900 5px 5px 5px,
+            helpers.$purple-900 5px 5px 5px,
+            helpers.$neon-500 3px 3px 20px,
+            helpers.$neon-500 3px 3px 20px;
+    }
+}
