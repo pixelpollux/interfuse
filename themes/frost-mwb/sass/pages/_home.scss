@@ -33,7 +33,7 @@
     .home-hero-container__hero-title {
         text-align: center;
         font-size: clamp(2.5rem, 10vw, 9rem);
-        color: $base;
+        color: helpers.$base;
         text-shadow: helpers.$purple-900 5px 5px 5px,
             helpers.$purple-900 5px 5px 5px,
             helpers.$neon-500 3px 3px 20px,
