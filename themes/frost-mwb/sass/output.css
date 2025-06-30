@@ -1,20 +1,45 @@
-.page-container__with-sidebar {
+.page-hero-container {
+  height: clamp(15rem, 30vw, 25rem);
   display: flex;
-  flex-direction: column-reverse;
-  width: 100%;
+  margin-bottom: 4rem;
+  position: relative;
+  align-self: center;
+  z-index: 0;
+}
+.page-hero-container .page-hero-container__image {
+  display: flex;
+  height: 100%;
   max-width: 100%;
-  padding: 0 1.25rem;
-  column-gap: 3rem;
-  row-gap: 1rem;
-  justify-self: center;
+  object-fit: cover;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  position: relative;
+  z-index: 0;
 }
-@media (min-width: 768px) {
-  .page-container__with-sidebar {
-    flex-direction: row;
-    width: 1200px;
-    max-width: 90%;
-  }
+.page-hero-container .page-hero-container__grad-container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  max-height: 100%;
+  max-width: 100%;
+  z-index: 1;
+  opacity: 0.75;
+  background-blend-mode: overlay, overlay;
+  background: linear-gradient(15deg, var(--wp--preset--color-neon-600, #A7CE0E) 3%, var(--wp--preset--color--teal-600, #00B5C6) 26%), linear-gradient(59deg, var(--wp--preset--color--orange-600, #CE5B19) 25%, var(--wp--preset--color--purple-600, #7F0075) 95%);
 }
+.page-hero-container .page-hero-container__text-container {
+  padding: clamp(1.5rem, 8vw, 6rem);
+}
+.page-hero-container .page-hero-container__hero-title {
+  text-align: center;
+  font-size: clamp(1.5rem, 8vw, 6rem);
+  color: var(--wp--preset--color--base, #ffffff);
+  text-shadow: var(--wp--preset--color--purple-900, #340030) 5px 5px 5px, var(--wp--preset--color--purple-900, #340030) 5px 5px 5px, var(--wp--preset--color--neon-500, #CFFF12) 3px 3px 20px, var(--wp--preset--color--neon-500, #CFFF12) 3px 3px 20px;
+}
+
 .page-container__single-column {
   display: flex;
   flex-direction: column;
@@ -32,6 +57,23 @@
 @media (min-width: 1025px) {
   .page-container__single-column {
     max-width: 70%;
+  }
+}
+.page-container__with-sidebar {
+  display: flex;
+  flex-direction: column-reverse;
+  width: 100%;
+  max-width: 100%;
+  padding: 0 1.25rem;
+  column-gap: 3rem;
+  row-gap: 1rem;
+  justify-self: center;
+}
+@media (min-width: 768px) {
+  .page-container__with-sidebar {
+    flex-direction: row;
+    width: 1200px;
+    max-width: 90%;
   }
 }
 
