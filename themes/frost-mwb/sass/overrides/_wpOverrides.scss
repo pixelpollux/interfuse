@@ -1,0 +1,20 @@
+@use '../abstracts/helpers';
+
+.wp-block-search__inside-wrapper {
+	border: 2px solid helpers.$red-500; //TODO: make this standard variable
+	border-radius: helpers.$space-sm;
+}
+
+.wp-block-search__input:focus {
+	background-color: helpers.$red-200;
+	border-radius: helpers.$space-sm;
+}
+
+.wp-block-search__button.has-background.has-icon {
+	.search-icon {
+		stroke: helpers.$base;
+		stroke-width: 2px; //TODO: make this standard variable
+		stroke-linejoin: round;
+
+	}
+}

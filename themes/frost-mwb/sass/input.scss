@@ -1,9 +1,12 @@
-// // abstracts imports 
-@use 'abstracts/helpers.scss'as *;
+// abstracts imports 
+@use 'abstracts/helpers.scss';
 
+// layout imports 
+@use 'layout/customContainers';
 
-// // layout imports 
-@use 'layout/customContainers'as *;
+// overrides imports 
+@use 'overrides/gbOverrides';
+@use 'overrides/wpOverrides';
 
 // pages imports 
-@use 'pages/home'as *;
+@use 'pages/home';
