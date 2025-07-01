@@ -1,0 +1,141 @@
+@use '../abstracts/helpers';
+
+// ------------------------------------ page container styles ------------------------------------ \\
+
+// container for entire hero section, used on most pages
+.page-hero-container {
+    height: clamp(15rem, 30vw, 25rem);
+    display: flex;
+    margin-bottom: helpers.$space-2x;
+    position: relative;
+    align-self: center;
+    z-index: 0;
+
+    & &__image {
+        display: flex;
+        height: 100%;
+        max-width: 100%;
+        object-fit: cover;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        position: relative;
+        z-index: 0;
+    }
+
+    & &__grad-container {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        max-height: 100%;
+        max-width: 100%;
+        z-index: 1;
+        opacity: 0.75;
+        background-blend-mode: overlay, overlay;
+        background: linear-gradient(15deg,
+                helpers.$neon-600 3%,
+                helpers.$teal-600 26%),
+            linear-gradient(59deg,
+                helpers.$orange-600 25%,
+                helpers.$purple-600 95%);
+    }
+
+    & &__text-container {
+        padding: clamp(1.5rem, 8vw, 6rem);
+    }
+
+    & &__hero-title {
+        text-align: center;
+        font-size: clamp(1.5rem, 8vw, 6rem);
+        color: helpers.$base;
+        text-shadow: helpers.$purple-900 5px 5px 5px,
+            helpers.$purple-900 5px 5px 5px,
+            helpers.$neon-500 3px 3px 20px,
+            helpers.$neon-500 3px 3px 20px;
+    }
+}
+
+// container for everything under the hero container
+.page-container {
+
+    // style if that container just is a single column without a sidebar
+    &__single-column {
+        display: flex;
+        flex-direction: column;
+        width: 860px;
+        max-width: 100%;
+        justify-self: center;
+        row-gap: helpers.$space-lg;
+        padding: 0 helpers.$space-smed;
+
+        @media (min-width: 768px) {
+            max-width: 90%;
+        }
+
+        @media (min-width: 1025px) {
+            max-width: 70%;
+        }
+    }
+
+    // style if that container has a sidebar
+    &__with-sidebar {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%;
+        max-width: 100%;
+        padding: 0 helpers.$space-smed;
+        column-gap: helpers.$space-xl;
+        row-gap: helpers.$space-unit;
+        justify-self: center;
+
+        @media (min-width: 768px) {
+            flex-direction: row;
+            width: 1200px;
+            max-width: 90%;
+        }
+    }
+}
+
+// in container with sidebar, this is the content container
+.content-container {
+    width: 100%;
+}
+
+// in container with sidebar, this is the sidebar container
+.sidebar-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: helpers.$space-lg;
+    width: 50%;
+}
+
+// ------------------------------------ colored container styles ------------------------------------ \\
+
+.colored-container {
+    @include helpers.coloredContainerStyle(helpers.$neon-200, helpers.$neon-500, helpers.$neon-600, helpers.$neon-700, helpers.$neon-900);
+
+    .blog &,
+    .home & {
+        h2 {
+            border-bottom: none;
+        }
+    }
+}
+
+.colored-container:nth-child(5n + 2) {
+    @include helpers.coloredContainerStyle(helpers.$pink-200, helpers.$pink-500, helpers.$pink-600, helpers.$pink-700, helpers.$pink-900);
+}
+
+.colored-container:nth-child(5n + 3) {
+    @include helpers.coloredContainerStyle(helpers.$teal-200, helpers.$teal-500, helpers.$teal-600, helpers.$teal-700, helpers.$teal-900);
+}
+
+.colored-container:nth-child(5n + 4) {
+    @include helpers.coloredContainerStyle(helpers.$orange-200, helpers.$orange-500, helpers.$orange-600, helpers.$orange-700, helpers.$orange-900);
+}
+
+.colored-container:nth-child(5n + 5) {
+    @include helpers.coloredContainerStyle(helpers.$purple-200, helpers.$purple-500, helpers.$purple-600, helpers.$purple-700, helpers.$purple-900);
+}

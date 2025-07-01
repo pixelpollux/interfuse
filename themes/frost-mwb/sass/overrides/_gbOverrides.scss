@@ -1,0 +1,12 @@
+@use '../abstracts/helpers';
+
+// TODO: figure out if overrides are still needed with access to the rest of the style files
+.gb-text {
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.gb-dynamic-read-more {
+    display: block;
+    justify-self: end;
+}

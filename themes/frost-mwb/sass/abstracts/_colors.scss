@@ -1,0 +1,114 @@
+// ------------------------------------------ primitive color variables ------------------------------------------ \\
+$base: var(--wp--preset--color--base, #ffffff);
+
+// neutral
+$neutral-0: var(--wp--preset--color--neutral-0, #FBFBFB);
+$neutral-50: var(--wp--preset--color--neutral-50, #F3F3F3);
+$neutral-100: var(--wp--preset--color--neutral-100, #E8E7E7);
+$neutral-200: var(--wp--preset--color--neutral-200, #D1D0D0);
+$neutral-300: var(--wp--preset--color--neutral-300, #AEADAE);
+$neutral-400: var(--wp--preset--color--neutral-400, #979696);
+$neutral-500: var(--wp--preset--color--neutral-500, #807E7F);
+$neutral-600: var(--wp--preset--color--neutral-600, #696768);
+$neutral-700: var(--wp--preset--color--neutral-700, #525051);
+$neutral-800: var(--wp--preset--color--neutral-800, #3B383A);
+$neutral-900: var(--wp--preset--color--neutral-900, #242123);
+$neutral-1000: var(--wp--preset--color--neutral-1000, #0E0A0C);
+
+// purple
+$purple-0: var(--wp--preset--color--purple-0, #FDFAFD);
+$purple-50: var(--wp--preset--color--purple-50, #FAF2F9);
+$purple-100: var(--wp--preset--color--purple-100, #F5E6F4);
+$purple-200: var(--wp--preset--color--purple-200, #E7C2E4);
+$purple-300: var(--wp--preset--color--purple-300, #D086CA);
+$purple-400: var(--wp--preset--color--purple-400, #B949B0);
+$purple-500: var(--wp--preset--color--purple-500, #9E0191);
+$purple-600: var(--wp--preset--color--purple-600, #7F0075);
+$purple-700: var(--wp--preset--color--purple-700, #610059);
+$purple-800: var(--wp--preset--color--purple-800, #4B0045);
+$purple-900: var(--wp--preset--color--purple-900, #340030);
+$purple-1000: var(--wp--preset--color--purple-1000, #1E001B);
+
+// pink
+$pink-0: var(--wp--preset--color--pink-0, #FFFBFD);
+$pink-50: var(--wp--preset--color--pink-50, #FFF5FA);
+$pink-100: var(--wp--preset--color--pink-100, #FFEBF6);
+$pink-200: var(--wp--preset--color--pink-200, #FFCEE8);
+$pink-300: var(--wp--preset--color--pink-300, #FF9DD2);
+$pink-400: var(--wp--preset--color--pink-400, #FF6DBB);
+$pink-500: var(--wp--preset--color--pink-500, #FF33A1);
+$pink-600: var(--wp--preset--color--pink-600, #CE2982);
+$pink-700: var(--wp--preset--color--pink-700, #9D1F63);
+$pink-800: var(--wp--preset--color--pink-800, #79184C);
+$pink-900: var(--wp--preset--color--pink-900, #551135);
+$pink-1000: var(--wp--preset--color--pink-1000, #30091E);
+
+// red
+$red-0: var(--wp--preset--color--red-0, #FFFBFB);
+$red-50: var(--wp--preset--color--red-50, #FFF5F3);
+$red-100: var(--wp--preset--color--red-100, #FFEBE7);
+$red-200: var(--wp--preset--color--red-200, #FFCDC3);
+$red-300: var(--wp--preset--color--red-300, #FF9B87);
+$red-400: var(--wp--preset--color--red-400, #FF6A4B);
+$red-500: var(--wp--preset--color--red-500, #FF2F04);
+$red-600: var(--wp--preset--color--red-600, #CE2603);
+$red-700: var(--wp--preset--color--red-700, #9D1D02);
+$red-800: var(--wp--preset--color--red-800, #791601);
+$red-900: var(--wp--preset--color--red-900, #550F01);
+$red-1000: var(--wp--preset--color--red-1000, #300800);
+
+// orange
+$orange-0: var(--wp--preset--color--orange-0, #FFFCFB);
+$orange-50: var(--wp--preset--color--orange-50, #FFF8F4);
+$orange-100: var(--wp--preset--color--orange-100, #FFF1E9);
+$orange-200: var(--wp--preset--color--orange-200, #FFDDC9);
+$orange-300: var(--wp--preset--color--orange-300, #FFBB94);
+$orange-400: var(--wp--preset--color--orange-400, #FF995F);
+$orange-500: var(--wp--preset--color--orange-500, #FF711F);
+$orange-600: var(--wp--preset--color--orange-600, #CE5B19);
+$orange-700: var(--wp--preset--color--orange-700, #9D4513);
+$orange-800: var(--wp--preset--color--orange-800, #79350E);
+$orange-900: var(--wp--preset--color--orange-900, #55250A);
+$orange-1000: var(--wp--preset--color--orange-1000, #301505);
+
+// neon
+$neon-0: var(--wp--preset--color--neon-0, #FEFFFB);
+$neon-50: var(--wp--preset--color--neon-50, #FCFFF3);
+$neon-100: var(--wp--preset--color--neon-100, #FAFFE8);
+$neon-200: var(--wp--preset--color--neon-200, #F3FFC6);
+$neon-300: var(--wp--preset--color--neon-300, #EAFF99);
+$neon-400: var(--wp--preset--color--neon-400, #E1FF6C);
+$neon-500: var(--wp--preset--color--neon-500, #CFFF12);
+$neon-600: var(--wp--preset--color-neon-600, #A7CE0E);
+$neon-700: var(--wp--preset--color--neon-700, #809D0B);
+$neon-800: var(--wp--preset--color--neon-800, #627908);
+$neon-900: var(--wp--preset--color--neon-900, #455506);
+$neon-1000: var(--wp--preset--color--neon-1000, #273003);
+
+// lime
+$lime-0: var(--wp--preset--color--lime-0, #FCFDFA);
+$lime-50: var(--wp--preset--color--lime-50, #F6F9F2);
+$lime-100: var(--wp--preset--color--lime-100, #EDF4E6);
+$lime-200: var(--wp--preset--color--lime-200, #D4E4C2);
+$lime-300: var(--wp--preset--color--lime-300, #A9C985);
+$lime-400: var(--wp--preset--color--lime-400, #7FAF48);
+$lime-500: var(--wp--preset--color--lime-500, #4C8F00);
+$lime-600: var(--wp--preset--color--lime-600, #3D7300);
+$lime-700: var(--wp--preset--color--lime-700, #2F5800);
+$lime-800: var(--wp--preset--color--lime-800, #244400);
+$lime-900: var(--wp--preset--color--lime-900, #192F00);
+$lime-1000: var(--wp--preset--color--lime-1000, #0E1B00);
+
+// teal
+$teal-0: var(--wp--preset--color--teal-0, #FAFEFE);
+$teal-50: var(--wp--preset--color--teal-50, #F2FDFE);
+$teal-100: var(--wp--preset--color--teal-100, #E6FCFE);
+$teal-200: var(--wp--preset--color--teal-200, #C2F7FC);
+$teal-300: var(--wp--preset--color--teal-300, #91F1FA);
+$teal-400: var(--wp--preset--color--teal-400, #61EBF8);
+$teal-500: var(--wp--preset--color--teal-500, #00E0F5);
+$teal-600: var(--wp--preset--color--teal-600, #00B5C6);
+$teal-700: var(--wp--preset--color--teal-700, #008A97);
+$teal-800: var(--wp--preset--color--teal-800, #006A74);
+$teal-900: var(--wp--preset--color--teal-900, #004A51);
+$teal-1000: var(--wp--preset--color--teal-1000, #002A2E);
