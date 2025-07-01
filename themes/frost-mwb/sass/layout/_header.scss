@@ -1,0 +1,17 @@
+@use '../abstracts/helpers';
+
+.wp-block-site-title {
+    font-size: clamp(1.5rem, 2.5vw, 2.5rem);
+    letter-spacing: 0.15rem;
+    text-shadow: helpers.$purple-900 1px 1px 0px,
+        helpers.$purple-900 1px 1px 1px,
+        helpers.$neon-500 2px 2px 0px,
+        helpers.$red-500 1px 1px 5px;
+
+    &:hover {
+        text-shadow: helpers.$purple-700 1px 1px 0px,
+            helpers.$neon-700 1px 1px 1px,
+            helpers.$neon-500 2px 2px 0px,
+            helpers.$teal-600 1px 1px 5px;
+    }
+}

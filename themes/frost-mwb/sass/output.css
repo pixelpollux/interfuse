@@ -291,6 +291,38 @@
   font-size: 36px;
 }
 
+.wp-block-site-title {
+  font-size: clamp(1.5rem, 2.5vw, 2.5rem);
+  letter-spacing: 0.15rem;
+  text-shadow: var(--wp--preset--color--purple-900, #340030) 1px 1px 0px, var(--wp--preset--color--purple-900, #340030) 1px 1px 1px, var(--wp--preset--color--neon-500, #CFFF12) 2px 2px 0px, var(--wp--preset--color--red-500, #FF2F04) 1px 1px 5px;
+}
+.wp-block-site-title:hover {
+  text-shadow: var(--wp--preset--color--purple-700, #610059) 1px 1px 0px, var(--wp--preset--color--neon-700, #809D0B) 1px 1px 1px, var(--wp--preset--color--neon-500, #CFFF12) 2px 2px 0px, var(--wp--preset--color--teal-600, #00B5C6) 1px 1px 5px;
+}
+
+.gb-text {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+.gb-dynamic-read-more {
+  display: block;
+  justify-self: end;
+}
+
+.wp-site-blocks > * {
+  margin-block-start: 0;
+}
+
+.wp-site-blocks > .base-container {
+  padding: 0 2rem;
+}
+@media (max-width: 767px) {
+  .wp-site-blocks > .base-container {
+    padding: 0 1rem;
+  }
+}
+
 .wp-block-search__inside-wrapper {
   border: 2px solid var(--wp--preset--color--red-500, #FF2F04);
   border-radius: 0.75rem;
